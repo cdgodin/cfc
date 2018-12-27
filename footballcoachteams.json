@@ -26,7 +26,7 @@
 			"abbreviation": "TENN",
 			"prestige": "75",
 			"state": "Tennessee",
-			"rival": "KTY"
+			"rival": "VAN"
 		}, {
 			"name": "Auburn",
 			"abbreviation": "AUB",
@@ -38,7 +38,7 @@
 			"abbreviation": "LSU",
 			"prestige": "85",
 			"state": "Louisiana",
-			"rival": "TAMU"
+			"rival": "ARK"
 		}, {
 			"name": "Mississippi State",
 			"abbreviation": "MSST",
@@ -52,16 +52,16 @@
 			"state": "Mississippi",
 			"rival": "MSST"
 		}, {
-			"name": "Texas A&M",
-			"abbreviation": "TAMU",
-			"prestige": "80",
-			"state": "Texas",
+			"name": "Arkansas",
+			"abbreviation": "ARK",
+			"prestige": "65",
+			"state": "Arkansas",
 			"rival": "LSU"
 		}, {
-			"name": "Kentucky",
-			"abbreviation": "KTY",
-			"prestige": "50",
-			"state": "Kentucky",
+			"name": "Vanderbilt",
+			"abbreviation": "VAN",
+			"prestige": "40",
+			"state": "Tennessee",
 			"rival": "TENN"
 		}]
 	}, {
@@ -84,7 +84,7 @@
 			"abbreviation": "MSU",
 			"prestige": "80",
 			"state": "Michigan",
-			"rival": "IOWA"
+			"rival": "PSU"
 		}, {
 			"name": "Wisconsin",
 			"abbreviation": "WIS",
@@ -104,23 +104,23 @@
 			"state": "Illinois",
 			"rival": "NWST"
 		}, {
-			"name": "Iowa",
-			"abbreviation": "IOWA",
-			"prestige": "75",
-			"state": "Iowa",
-			"rival": "MSU"
+			"name": "Purdue",
+			"abbreviation": "PUR",
+			"prestige": "55",
+			"state": "Indiana",
+			"rival": "IND"
 		}, {
 			"name": "Indiana",
 			"abbreviation": "IND",
 			"prestige": "55",
 			"state": "Indiana",
-			"rival": "PSU"
+			"rival": "PUR"
 		}, {
 			"name": "Penn State",
 			"abbreviation": "PSU",
 			"prestige": "85",
 			"state": "Pennsylvania",
-			"rival": "IND"
+			"rival": "MSU"
 		}, {
 			"name": "Northwestern",
 			"abbreviation": "NWST",
@@ -148,7 +148,7 @@
 			"abbreviation": "CLEM",
 			"prestige": "90",
 			"state": "South Carolina",
-			"rival": "GT"
+			"rival": "SC"
 		}, {
 			"name": "NC State",
 			"abbreviation": "NCSU",
@@ -156,10 +156,10 @@
 			"state": "North Carolina",
 			"rival": "UNC"
 		}, {
-			"name": "Georgia Tech",
-			"abbreviation": "GT",
+			"name": "South Carolina",
+			"abbreviation": "SC",
 			"prestige": "75",
-			"state": "Georgia",
+			"state": "South Carolina",
 			"rival": "CLEM"
 		}, {
 			"name": "Miami",
@@ -200,19 +200,19 @@
 			"abbreviation": "OKL",
 			"prestige": "90",
 			"state": "Oklahoma",
-			"rival": "TEX"
+			"rival": "NEB"
 		}, {
 			"name": "Texas",
 			"abbreviation": "TEX",
-			"prestige": "85",
+			"prestige": "90",
 			"state": "Texas",
-			"rival": "OKL"
+			"rival": "TAMU"
 		}, {
-			"name": "Missouri",
-			"abbreviation": "MIZZ",
+			"name": "Texas Tech",
+			"abbreviation": "TTU",
 			"prestige": "70",
-			"state": "Missouri",
-			"rival": "KU"
+			"state": "Texas",
+			"rival": "OKST"
 		}, {
 			"name": "TCU",
 			"abbreviation": "TCU",
@@ -230,31 +230,31 @@
 			"abbreviation": "OKS",
 			"prestige": "80",
 			"state": "Oklahoma",
-			"rival": "NEB"
+			"rival": "TTU"
 		}, {
 			"name": "Kansas State",
 			"abbreviation": "KSU",
 			"prestige": "75",
 			"state": "Kansas",
-			"rival": "COL"
+			"rival": "KU"
 		}, {
 			"name": "Nebraska",
 			"abbreviation": "NEB",
 			"prestige": "80",
 			"state": "Nebraska",
-			"rival": "OKS"
+			"rival": "OKL"
 		}, {
 			"name": "Kansas",
 			"abbreviation": "KU",
 			"prestige": "25",
 			"state": "Kansas",
-			"rival": "MIZZ"
-		}, {
-			"name": "Colorado",
-			"abbreviation": "COL",
-			"prestige": "65",
-			"state": "Colorado",
 			"rival": "KSU"
+		}, {
+			"name": "Texas A&M",
+			"abbreviation": "TAMU",
+			"prestige": "85",
+			"state": "Texas",
+			"rival": "TEX"
 		}]
 	}, {
 		"confName": "PAC12",
@@ -308,17 +308,17 @@
 			"state": "Oregon",
 			"rival": "ORE"
 		}, {
-			"name": "Arizona",
-			"abbreviation": "ARIZ",
+			"name": "Utah",
+			"abbreviation": "UTAH",
 			"prestige": "70",
-			"state": "Arizona",
-			"rival": "ASU"
+			"state": "Utah",
+			"rival": "COLO"
 		}, {
-			"name": "Arizona State",
-			"abbreviation": "ASU",
+			"name": "Colorado",
+			"abbreviation": "COLO",
 			"prestige": "70",
-			"state": "Arizona",
-			"rival": "ARIZ"
+			"state": "Colorado",
+			"rival": "UTAH"
 		}]
 	}, {
 		"confName": "AAC",
@@ -340,7 +340,7 @@
 			"abbreviation": "HOU",
 			"prestige": "70",
 			"state": "Texas",
-			"rival": "TUL"
+			"rival": "RICE"
 		}, {
 			"name": "Tulsa",
 			"abbreviation": "TULSA",
@@ -348,10 +348,10 @@
 			"state": "Oklahoma",
 			"rival": "CIN"
 		}, {
-			"name": "Tulane",
-			"abbreviation": "TUL",
-			"prestige": "50",
-			"state": "Louisiana",
+			"name": "Rice",
+			"abbreviation": "RICE",
+			"prestige": "40",
+			"state": "Texas",
 			"rival": "HOU"
 		}, {
 			"name": "Cincinnati",
